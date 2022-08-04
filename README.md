@@ -6,8 +6,8 @@ I'm Jr. DevOps & AWS Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/osmnnunl) 
 
 
-<img src="https://github.com/osmnnunl/osmnnunl/blob/d7e8783ded209b133bc75794c25116f905164ec0/1.gif" width="150px" img {float:left;}>
-<img src="https://github.com/osmnnunl/osmnnunl/blob/d7e8783ded209b133bc75794c25116f905164ec0/2.gif" width="150px" img {float:left;}>
+<img src="https://github.com/osmnnunl/osmnnunl/blob/d7e8783ded209b133bc75794c25116f905164ec0/1.gif" width="150px">
+<img src="https://github.com/osmnnunl/osmnnunl/blob/d7e8783ded209b133bc75794c25116f905164ec0/2.gif" width="150px">
 
 
 # 💻 Tech Stack:
@@ -19,3 +19,5 @@ I'm Jr. DevOps & AWS Engineer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=osmnnunl&icon=0&color=0)](https://visitcount.itsvg.in)
+
+img {float:left;}
