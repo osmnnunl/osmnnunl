@@ -1,9 +1,9 @@
 # 💫 About Me:
-I'm Jr. DevOps & AWS Engineer 
+I'm DevOps & AWS Engineer 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/osmnnunl) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmnnunl/) 
 
 <img src="https://github.com/osmnnunl/osmnnunl/blob/d7e8783ded209b133bc75794c25116f905164ec0/1.gif" width="150px">
 <img src="https://github.com/osmnnunl/osmnnunl/blob/d7e8783ded209b133bc75794c25116f905164ec0/2.gif" width="150px">
